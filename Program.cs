@@ -26,7 +26,7 @@ namespace CSharpBasic
            
             feature.GetStudentInfoWithGrade(feature.student.Where(x => x.Grade =="Third").FirstOrDefault());
 
-
+            Console.WriteLine("This is a Push Command");
 
             Console.Read();
 

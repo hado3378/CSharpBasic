@@ -1,0 +1,9 @@
+C:\Users\61478\source\repos\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\CSharpBasic.csproj.AssemblyReference.cache
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\CSharpBasic.pdb
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\Interop.EnvDTE.dll
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\Interop.VSLangProj.dll
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\CSharpBasic.csproj.ResolveComReference.cache
+C:\Users\61478\source\repos\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Users\61478\source\repos\CSharpBasic\obj\Debug\CSharpBasic.exe
